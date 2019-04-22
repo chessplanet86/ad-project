@@ -16,7 +16,7 @@
           </v-list-tile>
         </v-list>
     
-    
+    <!--Тестовый комментарий для коммита-->
     
   </v-navigation-drawer> <!--temporary скрывает элемент -->
   <v-toolbar app dark color="primary">
